@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Sripada Nandini 👋
+AI Master's Student @ WPI | Aspiring AI & Data Science Professional
 
-<!--
-**sripadanandini/sripadanandini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am committed to a consistency challenge throughout this year to sharpen my technical expertise, build a robust professional presence, and prepare for my graduation in May 2026.
 
-Here are some ideas to get you started:
+My Daily Commitments
+- Design and document end-to-end AI/ML portfolio projects.
+- Solve Leetcode challenges and deep-dive into core Machine Learning concepts.
+- Tailor my resume for AI roles and optimize my LinkedIn profile for impact.
+- Apply to 15 targeted roles daily and follow up with personalized networking.
+- Push daily updates to GitHub to maintain a consistent development log.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning & Progress Log
+Feb 4, 2026: Planned my consistency journey! Set up my profile README, defined my goals, and started my daily application and portfolio review cycle.
