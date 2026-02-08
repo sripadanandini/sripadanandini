@@ -11,6 +11,7 @@ My Daily Commitments
 - Push daily updates to GitHub to maintain a consistent development log.
 
 Learning & Progress Log
-Feb 4, 2026: Planned my consistency journey! Set up my profile README, defined my goals, and started my daily application and portfolio review cycle, Day 1 of Leet Coding.
-Feb 5, 2026: Day 2 of Leet Coding
-Feb 6, 2026: Day 3 of Leet Coding
+Feb 4, 2026: Planned my consistency journey! Set up my profile README, defined my goals, and started my daily application and portfolio review cycle, Day 1 of Leet Coding - Two Sum.
+Feb 5, 2026: Day 2 of Leet Coding - Palindrome.
+Feb 6, 2026: Day 3 of Leet Coding - Roman to Integer.
+Feb 4, 2025: Day 4 of Leet Coding -
