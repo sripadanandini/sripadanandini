@@ -16,3 +16,4 @@ Feb 5, 2026: Day 2 of Leet Coding - Palindrome.
 Feb 6, 2026: Day 3 of Leet Coding - Roman to Integer.
 Feb 7, 2026: Day 4 of Leet Coding - Longest Common Prefix.
 Feb 8, 2026: Day 5 of Leet Coding - Valid Parantheses.
+Feb 9, 2026: Day 6 of Leet Coding - Merge 2 Sorted Lists.
