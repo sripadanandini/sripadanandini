@@ -18,4 +18,5 @@ Feb 7, 2026: Day 4 of Leet Coding - Longest Common Prefix.
 Feb 8, 2026: Day 5 of Leet Coding - Valid Parantheses.
 Feb 9, 2026: Day 6 of Leet Coding - Merge 2 Sorted Lists.
 Feb 10, 2026: Day 7 of Leet Coding - Remove duplicates from sorted arrays.
-Feb 11, 2026: Day 8 of Leet Coding - Remove Element
+Feb 11, 2026: Day 8 of Leet Coding - Remove Element.
+Feb 12, 2026: Day 9 of Leet Coding - Find the Index of the First Occurrence in a String.
