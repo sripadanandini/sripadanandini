@@ -11,7 +11,8 @@ My Daily Commitments
 - Push daily updates to GitHub to maintain a consistent development log.
 
 Learning & Progress Log
-Feb 4, 2026: Planned my consistency journey! Set up my profile README, defined my goals, and started my daily application and portfolio review cycle, Day 1 of Leet Coding - Two Sum.
+Feb 4, 2026: Planned my consistency journey! Set up my profile README, defined my goals, and started my daily application and portfolio review cycle.
+Feb 4, 2026: Day 1 of Leet Coding - Two Sum.
 Feb 5, 2026: Day 2 of Leet Coding - Palindrome.
 Feb 6, 2026: Day 3 of Leet Coding - Roman to Integer.
 Feb 7, 2026: Day 4 of Leet Coding - Longest Common Prefix.
@@ -20,3 +21,4 @@ Feb 9, 2026: Day 6 of Leet Coding - Merge 2 Sorted Lists.
 Feb 10, 2026: Day 7 of Leet Coding - Remove duplicates from sorted arrays.
 Feb 11, 2026: Day 8 of Leet Coding - Remove Element.
 Feb 12, 2026: Day 9 of Leet Coding - Find the Index of the First Occurrence in a String.
+Feb 13, 2026: Day 10 of Leet Coding - Search Insert Position.
