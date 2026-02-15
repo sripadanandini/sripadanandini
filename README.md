@@ -22,3 +22,4 @@ Feb 10, 2026: Day 7 of Leet Coding - Remove duplicates from sorted arrays.
 Feb 11, 2026: Day 8 of Leet Coding - Remove Element.
 Feb 12, 2026: Day 9 of Leet Coding - Find the Index of the First Occurrence in a String.
 Feb 13, 2026: Day 10 of Leet Coding - Search Insert Position.
+Feb 14, 2026: Day 11 of Leet Coding - Length of Last Word.
